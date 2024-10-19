@@ -20,7 +20,7 @@ header {
       rgba(17, 19, 23, 0.8),
       rgba(17, 19, 23, 0.8)
     ),
-    url(../images/image02.jpg);
+    url(../images/Purple Background.jpeg);
   background-position: top center;
   background-size: cover;
 }
@@ -39,7 +39,7 @@ nav .menu ul li {
 }
 
 nav .menu li a {
-  color: aliceblue;
+  color: purple;
   padding: 0 15px;
   text-decoration: none;
 }
@@ -57,7 +57,7 @@ nav .icons .menu-bar,
 
 nav .icons i {
   font-size: 20px;
-  color: aliceblue;
+  color: purple;
   padding-left: 30px;
 }
 
